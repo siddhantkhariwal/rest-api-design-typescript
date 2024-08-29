@@ -1,0 +1,13 @@
+node_modules/
+
+# Build output
+dist/
+build/
+
+# TypeScript
+*.tsbuildinfo
+*.d.ts
+
+.env
+env/
+.DS_Store
